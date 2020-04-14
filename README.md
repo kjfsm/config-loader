@@ -1,1 +1,1 @@
-# config-loader
+# configloader
